@@ -5,7 +5,7 @@
 .bg-video{
   object-fit: cover;
   width:100%;
-  height:fit-content;
+  height:100vh;
   position:fixed;
   top:0;
   left:0;
